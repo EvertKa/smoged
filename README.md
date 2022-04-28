@@ -2,7 +2,7 @@
 ## Valisime sellise teema, sest see tundus meile kõigile huvitav ja me suht tajume seda värki.
 
 
-# Õpetus kuidas visata CS:GO-s Mirage A site tüüpilisi smoke
+# Õpetus kuidas visata CS:GO-s Mirage A site tüüpilisi smoke ja molo
 
 ## Smoke 1
 ![image](https://user-images.githubusercontent.com/93243148/165745770-23396514-0452-4f15-ab04-e519708e05d8.png)
