@@ -1,3 +1,7 @@
+# Teema valik
+Valisime sellise teema, sest see tundus meile kõigile huvitav ja me suht tajume seda värki.
+
+
 # Õpetus kuidas visata CS:GO-s Mirage A site smoke
 
 ## Smoke 1
