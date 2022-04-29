@@ -39,6 +39,10 @@ Lahed T spawnist palacei, jaad palaces sees viimase posti juurde seisma sihid se
 
 Lahed T spawnist labi rambi, jääd tetrise ees seisma, vaatad yles katte poole ja viskad vasaku klikiga smoge
 
+## smoke 8 ( palace v2 )
+![20220429153243_1](https://user-images.githubusercontent.com/93243148/165947736-f484cad4-bf8e-4d41-8c3c-4851aaaaeb4a.jpg)
+
+Olete A saidi üle võtnud juba, lahed palace alla nurka, vaatad august yles ja viskad vasaku klikiga smoge
 
  # TIIMI LIIKMED
  - Fredy Ait - smoke lineups tutorial video
