@@ -49,38 +49,41 @@ Olete A saidi üle võtnud juba, lahed palace alla nurka, vaatad august yles ja 
 ## smoke 1 ( CT )
 ![20220429141723_1](https://user-images.githubusercontent.com/93243148/165948350-99673a34-fdf9-4ecd-872a-4c670888ba20.jpg)
 
-Lahed banaanis oleva ukse juurde, vaatad suitsevad korstent ja viskad vasaku klikiga smoge
+Tuled T-spawnist, Lahed banaanis oleva ukse juurde, vaatad suitsevad korstent ja viskad vasaku klikiga smoge
 
 ## smoke 2 ( CT V2 )
 ![20220429142010_1](https://user-images.githubusercontent.com/93243148/165948850-ce427b43-07bc-4763-94ca-f0b5a6f70d81.jpg)
 
-Tuled T spawnist jääd sissepääsu ees seisma, vaatad lille, viskad hyppe pealt vasaku klikiga smoge
+Tuled T-spawnist jääd sissepääsu ees seisma, vaatad lille, viskad hyppe pealt vasaku klikiga smoge
 
 ## smoke 3 ( CT V3 )
 ![20220429142254_1](https://user-images.githubusercontent.com/93243148/165949414-5d6c2874-8ea8-40f0-be94-f850496caf10.jpg)
 
-lahed T spawnist banaani lõppu, jaad tünnide ees seisma, vaatad katuse äärt ja viskad smoge vasaku klikiga ( hea smoke siis kui site juba teie käes )
+lahed T-spawnist banaani lõppu, jaad tünnide ees seisma, vaatad katuse äärt ja viskad smoge vasaku klikiga ( hea smoke siis kui site juba teie käes )
 
 ## smoke 4 ( coffin )
 ![20220429142855_1](https://user-images.githubusercontent.com/93243148/165949900-e0cb51e3-16a0-4731-8ecb-274717286b04.jpg)
 
-lahed T spawnist banaani logide peale, vaatad aiapostist ylevale ja viskad vasaku klikiga smoge
+lahed T-spawnist banaani logide peale, vaatad aiapostist ylevale ja viskad vasaku klikiga smoge
 
 ## smoke 5 ( coffin v2 )
 ![20220429143534_1](https://user-images.githubusercontent.com/93243148/165950267-9fb06718-e061-49f3-9515-8bb6453eab41.jpg)
 
-Lahed T spawnist t-apsi silla peale vasakusse nurka, vaatad ukse yleval olevat kohta ja jooksu pealt hyppad ja viskad vasaku klikiga smoge
+Lahed T-spawnist t-apsi silla peale vasakusse nurka, vaatad ukse yleval olevat kohta ja jooksu pealt hyppad ja viskad vasaku klikiga smoge
 
 ## smoke 6 ( site )
 ![20220429143707_1](https://user-images.githubusercontent.com/93243148/165950866-794b35f0-3c0d-48de-a76f-621dcaf9c7c8.jpg)
 
-Lahed T spawnist banaanis olevasse vahesse (logide ees), lahed nurka, vaatad alumise oksa keskmist lehte ja viskad vasaku klikiga smoge
+Lahed T-spawnist banaanis olevasse vahesse (logide ees), lahed nurka, vaatad alumise oksa keskmist lehte ja viskad vasaku klikiga smoge
 
 ## smoke 7 ( site v2)
 ![20220429144029_1](https://user-images.githubusercontent.com/93243148/165951516-cd16fc27-9b16-4498-ad30-b7ea26b4b042.jpg)
 
-Lahed T spawnist Banaani lõppu seina vastu, vaatad puidust tahvlist ylevale poole ja viskad vasaku klikiga smoge
+Lahed T-spawnist Banaani lõppu seina vastu, vaatad puidust tahvlist ylevale poole ja viskad vasaku klikiga smoge
 
+## smoke 8 ( site v3 )
+
+Lahed T-spawnist Banaani lõppu seina vastu, vaatad katusel oleva antenni poole ja viskad vasaku klikiga smoge
 
 
 # Cache A site smoged
