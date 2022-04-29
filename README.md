@@ -76,6 +76,11 @@ Lahed T spawnist t-apsi silla peale vasakusse nurka, vaatad ukse yleval olevat k
 
 Lahed T spawnist banaanis olevasse vahesse (logide ees), lahed nurka, vaatad alumise oksa keskmist lehte ja viskad vasaku klikiga smoge
 
+## smoke 7 ( site v2)
+![20220429144029_1](https://user-images.githubusercontent.com/93243148/165951516-cd16fc27-9b16-4498-ad30-b7ea26b4b042.jpg)
+
+Lahed T spawnist Banaani lõppu seina vastu, vaatad puidust tahvlist ylevale poole ja viskad vasaku klikiga smoge
+
 # Cache A site smoged
 
  # TIIMI LIIKMED
