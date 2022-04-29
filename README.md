@@ -46,6 +46,11 @@ Olete A saidi üle võtnud juba, lahed palace alla nurka, vaatad august yles ja 
 
 # Inferno B site smoged
 
+smoke 1 ( CT )
+![20220429141723_1](https://user-images.githubusercontent.com/93243148/165948350-99673a34-fdf9-4ecd-872a-4c670888ba20.jpg)
+
+Lahed läbi banaanis oleva ukse juurde, vaatad suitsevad korstent ja viskad vasaku klikiga
+
  # TIIMI LIIKMED
  - Fredy Ait - smoke lineups tutorial video
  - Evert Kärp - GitHub README
