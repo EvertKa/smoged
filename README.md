@@ -14,14 +14,14 @@ Jooksed T spawnist rampi, hüppad kõrgele ääre peale, lahed teise posti juurd
 
 Lahed T spawnist rambi poole seina kõrvale, vaatad taevas ct pool asuva pulga korvale, hyppad ja viskad smoge vasaku kilikga.
 
-## Smoke 3 ( stairs )
+## smoke 3 ( stairs )
 ![20220429151008_1](https://user-images.githubusercontent.com/93243148/165945532-8697e432-60d2-4122-a7e5-07652fca14e3.jpg)
 
 Lahed T spawnist rambi poole, hüppad ääre peale, sihid puidust posti ja seina vahele ja viskad vasaku klikiga smoge
 
 ## smoke 4 ( CT V2 )
 ![20220429151456_1](https://user-images.githubusercontent.com/93243148/165946103-96de404d-dfd8-49fc-a5f4-125cbb364144.jpg)
-
+Lahed T spawnist rambi poole kui jouad ukseni, lahed ukse korvale, vaatad taevasse puu pulga lahedale, hyppad ja viskad smoge
  
  # TIIMI LIIKMED
  - Fredy Ait - smoke lineups tutorial video
