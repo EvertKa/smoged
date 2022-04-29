@@ -98,6 +98,26 @@ T-Spawnis joonda ennast paremalt kolmanda ülekäiguraja triibuga, vaata otse et
 
 Joonda ennast garaaži ukseraami parema poolse küljega T-Spawnist väljudes. Aseta crosshair konteineri taguse garaaži ukseava ülale, akna ülemisele äärele. Seejärel lihtsalt viska smoge vasaku hiireklõpsuga.
 
+## Smoke 3 (A Warehouse/A Site)
+![3](https://user-images.githubusercontent.com/44483724/165952697-b353daa2-5ce7-4315-98a2-df7d0b407afc.PNG)
+
+A Site'i warehousis olles, ole paremal seina ääres ning vaata gaasiballoonide ülevat vasakut nurka, kus on roheline kate peale pandud. Seejärel, hoia vasakut hiireklõpsu all, jookse ja lase lahti, millejärel blokkeerib CT'd sind keskelt ja auto juurest nägemast.
+
+## Smoke 4 (Long A/A Site)
+![4](https://user-images.githubusercontent.com/44483724/165953228-94db65aa-06af-4745-9bd9-49916be64a85.PNG)
+
+Enne kui sa garaaži avast sisse lähed A Longis, hüppa elektrikapi otsa mis jääb paremale nurka. Seejärel kükita, aseta crosshair kõige kaugemast kolmanda varjualuse raami pulgast veidi allapoole, ning viska smoge nagu tavaliselt. See blokkeerib site'i sisemise poole keskelt ära.
+
+## Smoke 5 (Squeaky/A Site)
+![5](https://user-images.githubusercontent.com/44483724/165954149-4868975f-d08b-4eed-8a6f-52a3284f61ae.PNG)
+
+Long A'st kriuksuva ukse juurde jõudes, ava see ja joonda ennast gaasikanistrite hunnikuga millel on roheline kate peal, mil ise olles täiesti paremale poole seina vastu surutud. Seejärel aseta oma crosshair kasti punasest noolest veidi paremale ja viska. See blokkeerib CT'd sind keskelt ja auto juurest nägemast.
+
+## Smoke 6 (CT Car/A Site warehouse)
+![6](https://user-images.githubusercontent.com/44483724/165954797-58791d8b-b5bd-4560-a34d-961c42f5dffa.PNG)
+
+CT'st tulles, joonda ennast auto esiotsaga sirgelt, aseta crosshair kommunist märgi kahe otsa vahele, ning viska. See blokkeerib terroristid A Site warehousis ära.
+
  # TIIMI LIIKMED
  - Fredy Ait - smoke lineups tutorial video \ Github README
  - Evert Kärp - smoke lineups tutorial video \ GitHub README
