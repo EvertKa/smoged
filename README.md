@@ -61,10 +61,15 @@ Tuled T spawnist jääd sissepääsu ees seisma, vaatad lille, viskad hyppe peal
 
 lahed T spawnist banaani lõppu, jaad tünnide ees seisma, vaatad katuse äärt ja viskad smoge vasaku klikiga ( hea smoke siis kui site juba teie käes )
 
-## smoke 4 ( coffin smoge )
+## smoke 4 ( coffin )
 ![20220429142855_1](https://user-images.githubusercontent.com/93243148/165949900-e0cb51e3-16a0-4731-8ecb-274717286b04.jpg)
 
 lahed T spawnist banaani logide peale, vaatad aiapostist ylevale ja viskad vasaku klikiga smoge
+
+## smoke 5 ( coffin v2 )
+![20220429143534_1](https://user-images.githubusercontent.com/93243148/165950267-9fb06718-e061-49f3-9515-8bb6453eab41.jpg)
+
+Lahed T spawnist t-apsi silla peale vasakusse nurka, vaatad ukse yleval olevat kohta ja jooksu pealt hyppad ja viskad vasaku klikiga smoge
 
  # TIIMI LIIKMED
  - Fredy Ait - smoke lineups tutorial video
