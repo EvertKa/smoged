@@ -71,6 +71,8 @@ lahed T spawnist banaani logide peale, vaatad aiapostist ylevale ja viskad vasak
 
 Lahed T spawnist t-apsi silla peale vasakusse nurka, vaatad ukse yleval olevat kohta ja jooksu pealt hyppad ja viskad vasaku klikiga smoge
 
+# Cache A site smoged
+
  # TIIMI LIIKMED
  - Fredy Ait - smoke lineups tutorial video
  - Evert Kärp - GitHub README
