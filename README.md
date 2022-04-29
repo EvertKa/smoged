@@ -13,6 +13,7 @@
 ## Smoke 3
 ![image](https://user-images.githubusercontent.com/93243148/165746090-14638787-a1d9-4d81-a0c9-3cb7eeb357e8.png)
 
+LIIKMED:
  - Fredy Ait - smoke lineups tutorial video
  - Evert Kärp - GitHub README
  - Kevin Zukker -  GitHub README
