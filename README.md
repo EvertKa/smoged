@@ -71,6 +71,11 @@ lahed T spawnist banaani logide peale, vaatad aiapostist ylevale ja viskad vasak
 
 Lahed T spawnist t-apsi silla peale vasakusse nurka, vaatad ukse yleval olevat kohta ja jooksu pealt hyppad ja viskad vasaku klikiga smoge
 
+## smoke 6 ( site )
+![20220429143707_1](https://user-images.githubusercontent.com/93243148/165950866-794b35f0-3c0d-48de-a76f-621dcaf9c7c8.jpg)
+
+Lahed T spawnist banaanis olevasse vahesse (logide ees), lahed nurka, vaatad alumise oksa keskmist lehte ja viskad vasaku klikiga smoge
+
 # Cache A site smoged
 
  # TIIMI LIIKMED
