@@ -59,7 +59,7 @@ Tuled T spawnist jääd sissepääsu ees seisma, vaatad lille, viskad hyppe peal
 ## smoke 3 ( CT V3 )
 ![20220429142254_1](https://user-images.githubusercontent.com/93243148/165949414-5d6c2874-8ea8-40f0-be94-f850496caf10.jpg)
 
-lahed T spawnist banaani lõppu, jaad tünnide ees seisma, vaatad katuse äärt ja viskad smoge vasaku klikiga
+lahed T spawnist banaani lõppu, jaad tünnide ees seisma, vaatad katuse äärt ja viskad smoge vasaku klikiga ( hea smoke siis kui site juba teie käes )
 
  # TIIMI LIIKMED
  - Fredy Ait - smoke lineups tutorial video
