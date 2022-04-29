@@ -5,7 +5,7 @@
 # Õpetus kuidas visata CS:GO-s Mirage A site tüüpilisi smoke
 
 ## Smoke 1 (jungle/con)
-![image](https://user-images.githubusercontent.com/93243148/165745770-23396514-0452-4f15-ab04-e519708e05d8.png
+![image](https://user-images.githubusercontent.com/93243148/165745770-23396514-0452-4f15-ab04-e519708e05d8.png)
 Jooksed T spawnist rampi, hüppad kõrgele ääre peale, lahed teise posti juurde, sihid 2 posti kõrvale ja viskad vasaku klikiga smoge
 
 ## Smoke 2 (CT/ticket)
