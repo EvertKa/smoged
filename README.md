@@ -23,6 +23,10 @@ Lahed T spawnist rambi poole, hüppad ääre peale, sihid puidust posti ja seina
 ![20220429151456_1](https://user-images.githubusercontent.com/93243148/165946103-96de404d-dfd8-49fc-a5f4-125cbb364144.jpg)
 Lahed T spawnist rambi poole kui jouad ukseni, lahed ukse korvale, vaatad taevasse puu pulga lahedale, hyppad ja viskad smoge
  
+ ## smoke 5 ( CT V3 )
+ ![20220429152041_1](https://user-images.githubusercontent.com/93243148/165946531-e31bd960-0247-4cb8-a3e2-353ab15fc8af.jpg)
+
+ 
  # TIIMI LIIKMED
  - Fredy Ait - smoke lineups tutorial video
  - Evert Kärp - GitHub README
