@@ -46,10 +46,15 @@ Olete A saidi üle võtnud juba, lahed palace alla nurka, vaatad august yles ja 
 
 # Inferno B site smoged
 
-smoke 1 ( CT )
+## smoke 1 ( CT )
 ![20220429141723_1](https://user-images.githubusercontent.com/93243148/165948350-99673a34-fdf9-4ecd-872a-4c670888ba20.jpg)
 
-Lahed läbi banaanis oleva ukse juurde, vaatad suitsevad korstent ja viskad vasaku klikiga
+Lahed banaanis oleva ukse juurde, vaatad suitsevad korstent ja viskad vasaku klikiga smoge
+
+## smoke 2 ( CT V2 )
+![20220429142010_1](https://user-images.githubusercontent.com/93243148/165948850-ce427b43-07bc-4763-94ca-f0b5a6f70d81.jpg)
+
+Tuled T spawnist jääd sissepääsu ees seisma, vaatad lille, viskad hyppe pealt vasaku klikiga smoge
 
  # TIIMI LIIKMED
  - Fredy Ait - smoke lineups tutorial video
