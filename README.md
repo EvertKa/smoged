@@ -16,7 +16,7 @@ Lahed T spawnist rambi poole seina kõrvale, vaatad taevas ct pool asuva pulga k
 
 ## Smoke 3 (stairs)
 
-
+Lahed T spawnist rambi poole, hüppad ääre peale, sihid puidust posti ja seina vahele ja viskad vasaku klikiga smoge
 
  # TIIMI LIIKMED
  - Fredy Ait - smoke lineups tutorial video
