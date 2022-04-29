@@ -44,6 +44,8 @@ Lahed T spawnist labi rambi, jääd tetrise ees seisma, vaatad yles katte poole 
 
 Olete A saidi üle võtnud juba, lahed palace alla nurka, vaatad august yles ja viskad vasaku klikiga smoge
 
+# Inferno B site smoged
+
  # TIIMI LIIKMED
  - Fredy Ait - smoke lineups tutorial video
  - Evert Kärp - GitHub README
