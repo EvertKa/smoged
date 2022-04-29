@@ -8,6 +8,7 @@
 ![image](https://user-images.githubusercontent.com/93243148/165745770-23396514-0452-4f15-ab04-e519708e05d8.png)
 
 Jooksed T spawnist rampi, hüppad kõrgele ääre peale, lahed teise posti juurde, sihid keskmise posti kõrvale ja viskad vasaku klikiga smoge
+![20220429151008_1](https://user-images.githubusercontent.com/93243148/165945454-888f2ecc-d6d0-4d97-a8cf-c860aea1185a.jpg)
 
 ## Smoke 2 (CT/ticket)
 ![image](https://user-images.githubusercontent.com/93243148/165745966-adc343b3-0023-4e2b-8f46-735753edcc04.png)
