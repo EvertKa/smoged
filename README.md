@@ -99,6 +99,6 @@ T-Spawnis joonda ennast paremalt kolmanda ülekäiguraja triibuga, vaata otse et
 Joonda ennast garaaži ukseraami parema poolse küljega T-Spawnist väljudes. Aseta crosshair konteineri taguse garaaži ukseava ülale, akna ülemisele äärele. Seejärel lihtsalt viska smoge vasaku hiireklõpsuga.
 
  # TIIMI LIIKMED
- - Fredy Ait - smoke lineups tutorial video
- - Evert Kärp - GitHub README
- - Kevin Zukker -  GitHub README
+ - Fredy Ait - smoke lineups tutorial video \ Github README
+ - Evert Kärp - smoke lineups tutorial video \ GitHub README
+ - Kevin Zukker -smoke lineups tutorial video \  GitHub README
