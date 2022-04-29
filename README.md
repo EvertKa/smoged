@@ -25,7 +25,8 @@ Lahed T spawnist rambi poole kui jouad ukseni, lahed ukse korvale, vaatad taevas
  
  ## smoke 5 ( CT V3 )
  ![20220429152041_1](https://user-images.githubusercontent.com/93243148/165946531-e31bd960-0247-4cb8-a3e2-353ab15fc8af.jpg)
-
+ 
+ lahed T spawnist palace poole, jaad aia vastas seisma vaatad puu pulga ylevale ja hyppad ja viskad
  
  # TIIMI LIIKMED
  - Fredy Ait - smoke lineups tutorial video
