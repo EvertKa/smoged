@@ -24,11 +24,17 @@ Lahed T spawnist rambi poole, hüppad ääre peale, sihid puidust posti ja seina
 
 Lahed T spawnist rambi poole kui jouad ukseni, lahed ukse korvale, vaatad taevasse puu pulga lahedale, hyppad ja viskad smoge
  
- ## smoke 5 ( CT V3 )
+## smoke 5 ( CT V3 )
  ![20220429152041_1](https://user-images.githubusercontent.com/93243148/165946531-e31bd960-0247-4cb8-a3e2-353ab15fc8af.jpg)
  
  Lahed T spawnist palace poole, jaad aia vastas seisma vaatad puu pulga ylevale ja hyppad ja viskad
  
+## smoke 6 ( palace smoke )
+ ![20220429152350_1](https://user-images.githubusercontent.com/93243148/165946953-6c02ccd2-a16b-409c-ab98-195160ea6420.jpg)
+
+Lahed T spawnist palacei, jaad palaces sees viimase posti juurde seisma sihid seina ja viskad põrkega smoge
+ 
+
  # TIIMI LIIKMED
  - Fredy Ait - smoke lineups tutorial video
  - Evert Kärp - GitHub README
