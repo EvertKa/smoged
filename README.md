@@ -71,17 +71,17 @@ lahed T spawnist banaani logide peale, vaatad aiapostist ylevale ja viskad vasak
 
 Lahed T spawnist t-apsi silla peale vasakusse nurka, vaatad ukse yleval olevat kohta ja jooksu pealt hyppad ja viskad vasaku klikiga smoge
 
-## smoke 6 ( site )
-![20220429143707_1](https://user-images.githubusercontent.com/93243148/165950866-794b35f0-3c0d-48de-a76f-621dcaf9c7c8.jpg)
-
-Lahed T spawnist banaanis olevasse vahesse (logide ees), lahed nurka, vaatad alumise oksa keskmist lehte ja viskad vasaku klikiga smoge
-
-## smoke 7 ( site v2)
-![20220429144029_1](https://user-images.githubusercontent.com/93243148/165951516-cd16fc27-9b16-4498-ad30-b7ea26b4b042.jpg)
-
-Lahed T spawnist Banaani lõppu seina vastu, vaatad puidust tahvlist ylevale poole ja viskad vasaku klikiga smoge
-
 # Cache A site smoged
+
+## Smoke 1 (T-Spawn/Middle)
+![1](https://user-images.githubusercontent.com/44483724/165950823-5c927f13-2b20-417f-bc42-b5657df7b463.PNG)
+
+T-Spawnis joonda ennast paremalt kolmanda ülekäiguraja triibuga, vaata otse ette garaaži akna ülale kus aknaraam ühendub. Jookse edasi, hiirt selle punkti peal hoides ning kui sa jõuad ülekäiguraja triibu otsa peale siis hüppa ja lase vasakust hiire klõpsust lahti, et visata. 
+
+## Smoke 2 (T-Spawn Garage/Middle)
+![2](https://user-images.githubusercontent.com/44483724/165951597-5cca5f26-2dd9-473a-a41e-5bfb7c0173ae.PNG)
+
+Joonda ennast garaaži ukseraami parema poolse küljega T-Spawnist väljudes. Aseta crosshair konteineri taguse garaaži ukseava ülale, akna ülemisele äärele. Seejärel lihtsalt viska smoge vasaku hiireklõpsuga.
 
  # TIIMI LIIKMED
  - Fredy Ait - smoke lineups tutorial video
